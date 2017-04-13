@@ -1,5 +1,5 @@
 #!/bin/sh
 
-if [ ! -e /tmp/danie-emacs-shared/server ]; then
+if [ ! -e ~/.emacs-server-shared/server ]; then
  echo "EMACS SERVER CANNOT BE FOUND"
 fi
